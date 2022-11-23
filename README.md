@@ -1,1 +1,1 @@
-# Qrscanner1prj
+# Qrscannerproject
