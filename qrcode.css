@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	background-color: #dcdcdc;
+}
+
+.container{
+	background-color: #c5cfdb;
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	
+
+
+}
+
+.card{
+	justify-items: center;
+	padding: 1rem;
+	background-color: white;
+    margin: auto;
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+
+
+}
+
+.qr{
+	height: 250px;
+	width: 250px;
+	border-radius: 0.5rem;
+	margin-left: -0.3rem;
+
+}
+
+h2{
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+	margin-bottom: 0;
+}
+
+p{
+	margin: 0 1.5rem 0 1.5rem;
+	font-size: 0.8rem;
+}
